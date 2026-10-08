@@ -1,0 +1,6 @@
+secret.txt
+decoded_secret.txt
+stego_img.bmp
+encode
+decode
+*.o
